@@ -1,0 +1,11 @@
+# Standard sbt stuff
+target/
+lib_managed/
+src_managed/
+project/boot/
+
+# jMonkeyEngine stuff
+liblwjgl.jnilib
+
+# Remove this if any third-party libs are required later.
+lib/*.jar
