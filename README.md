@@ -34,5 +34,5 @@ License
 -------
 
 These examples are derived from [the jMonkeyEngine wiki](http://jmonkeyengine.org/wiki/doku.php)
-and are released under the [Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/)
-licensed.
+and are released under the Creative Commons [Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/)
+license.
